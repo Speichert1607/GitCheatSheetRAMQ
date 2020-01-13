@@ -1,17 +1,14 @@
 git add nomFichier.txt : ajouter un fichier dans le staging area (pour qu'il soit commitable!)
-git commit -a -m "écrire message" : Préparer le commit pour quil soit prêt à être push
+git commit -a -m "Ã©crire message" : PrÃ©parer le commit pour quil soit prÃªt Ã  Ãªtre push
 git push : envoyer les fichiers au serveur
 git pull : recevoir les fichiers du serveur
 
-git stash : sauvegarde temporaire dans un espace-mémoire sur le local
-git stash pop : récupérer ce qui a été stash.
-git stash list : liste des modifications qui ont été "stashed"
-git stash show : liste des modifications qui ont été "stashed"
+git stash : sauvegarde temporaire dans un espace-mÃ©moire sur le local
+git stash pop : rÃ©cupÃ©rer ce qui a Ã©tÃ© stash.
+git stash list : liste des modifications qui ont Ã©tÃ© "stashed"
+git stash show : liste des modifications qui ont Ã©tÃ© "stashed"
 
 
 
 
-git restore nomFichier.txt : remettre un fichier à sa version initiale locale
-
-
-git 
+git restore nomFichier.txt : remettre un fichier Ã  sa version initiale locale
